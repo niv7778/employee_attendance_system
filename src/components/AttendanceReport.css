@@ -1,0 +1,21 @@
+.report-container {
+  width: 90%;
+  margin: 20px auto;
+}
+
+.report-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.report-table th,
+.report-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+
+.report-table th {
+  background: #28a745;
+  color: white;
+}

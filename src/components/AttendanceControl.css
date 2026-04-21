@@ -1,0 +1,46 @@
+.attendance-container {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  background: #fff;
+  text-align: center;
+}
+
+.dropdown {
+  width: 100%;
+  padding: 8px;
+  margin: 10px 0;
+}
+
+.button-group {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.btn {
+  flex: 1;
+  padding: 8px;
+  border: none;
+  border-radius: 6px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.checkin {
+  background: #4caf50;
+  color: white;
+}
+
+.checkout {
+  background: #f44336;
+  color: white;
+}
+
+.message {
+  margin-top: 15px;
+  font-weight: bold;
+}
